@@ -1,12 +1,14 @@
-# Nantnapas 👻
+## NANTNAPAS 👻
 
-I'm a full-time data analyst with experience in data preprocessing, data visualization, and building predictive models. I am efficient in programming languages like Python and SQL. With a passion for data science and desire to make an impact, I am excited to take on new challenges to learn and grow while contributing to the organization's success by applying my skill to support data-driven decision making and find meaningful insights that can drive business growth.
+I'm a full-time data analyst with experience in data preprocessing, data visualization, and building predictive models. I'm interested in many things, i.e., Machine learning, UX/UI design, software development and everything related to technology. My goal is want to make technology can be more accessible for everyone, especially Thai people.
 
-⚡ In addition to Data Analyst, I am interested in Programming, ML/DL, ML Engineer, Investing, Business and Innovation.
+<br/>
 
-## Technical skill
+<a href="https://app.daily.dev/nantnapas"><img src="https://api.daily.dev/devcards/3f8f4e1f62c641d59c750ac969e5f463.png?r=6cw" width="300" align="right" alt="Nantnapas Srasom's Dev Card"/></a>
 
-#### Programming Language
+<!-- ### TECH STACK -->
+
+<!-- #### Programming Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-203759?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -16,7 +18,7 @@ I'm a full-time data analyst with experience in data preprocessing, data visuali
 
 #### Others
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) -->
 
 
 <!---
